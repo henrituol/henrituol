@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I’m a doctoral researcher in musicology at the University of Helsinki looking for job opportunities in the fields of Business Intelligence and data analysis.
+
+I'm currently learning Python, Java, Go, Django, Javascript, React, HTML, and CSS. Also, I've been creating websites with Ghost and WordPress.

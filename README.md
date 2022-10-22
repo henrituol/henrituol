@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-I’m a doctoral researcher in musicology at the University of Helsinki looking for job opportunities in the fields of Business Intelligence and data analysis.
+I’m a doctoral researcher in musicology at the University of Helsinki looking for job opportunities in the fields of Business Intelligence and data analysis. I'm interested in creating tools to gain better insights into various kinds of data.
 
 I'm currently learning Python, Java, Go, Django, Javascript, React, Vue, HTML, and CSS. Also, I've been creating websites with Ghost and WordPress.

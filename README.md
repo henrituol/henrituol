@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-I’m a doctoral researcher in musicology at the University of Helsinki looking for job opportunities in the fields of Business Intelligence and data analysis. I'm interested in creating tools to gain better insights into various kinds of data.
+I imagine myself to be an explorer of sorts – I was born too late to find new continents and too early for interstellar travel, but just in time to delve deep into the human psyche through exploring abundant data we are generating with ever-advancing information and communication technologies. I’m interested in developing tools, indicators, models, and overall solutions for exploring all kinds of data. My background is in the academic world (mainly music research and cognitive science), where I have gained extensive knowledge and skills in conducting various research projects. For example, I have made computational analyses of audio signals, conducted surveys and interviews, cleaned electroencephalogram data, close-read multimedia franchises, and studied anthropocentric biases in academia. Now, I am aiming to extend my skill set in software development. I want to help you to gain meaningful insight about the various phenomena transpiring around us now and in the future.
+
+As a doctoral researcher in musicology at University of Helsinki, I'm finalising my PhD thesis ‘Tuning Into Unknown: A Posthumanist Exploration Of Music’.
 
 I'm currently learning Python, Java, Go, Django, Javascript, React, HTML, and CSS. Also, I've been creating websites with Ghost and WordPress.

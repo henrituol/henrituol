@@ -20,4 +20,4 @@ I imagine myself to be an explorer of sorts – I was born too late to find new 
 
 As a doctoral researcher in musicology at University of Helsinki, I'm finalising my PhD thesis ‘Tuning Into Unknown: A Posthumanist Exploration Of Music’.
 
-I'm currently learning Python, Java, Go, Django, Javascript, React, HTML, and CSS. Also, I've been creating websites with Ghost and WordPress.
+I'm currently learning Python, Java, Go, Django, Javascript, TypeScript, React, HTML, and CSS. Also, I've been creating websites with Ghost and WordPress.

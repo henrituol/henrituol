@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-I imagine myself to be an explorer of sorts – I was born too late to find new continents and too early for interstellar travel, but just in time to delve deep into the human psyche through exploring abundant data we are generating with ever-advancing information and communication technologies. I’m interested in developing tools, indicators, models, and overall solutions for exploring all kinds of data. My background is in the academic world (mainly music research and cognitive science), where I have gained extensive knowledge and skills in conducting various research projects. For example, I have made computational analyses of audio signals, conducted surveys and interviews, cleaned electroencephalogram data, close-read multimedia franchises, and studied anthropocentric biases in academia. Now, I am aiming to extend my skill set in software development. I want to help you to gain meaningful insight about the various phenomena transpiring around us now and in the future.
+I am a data analyst, researcher, and passionate proponent of meaningful measurements and research-driven decision-making. My goal is to unlock new insights by developing tools, indicators, visualizations, and innovative solutions for data analysis. With a background in academic research, particularly in musicology and cognitive science, I bring expertise in conducting research projects and analyzing various kinds of data. My work has involved analyzing audio signals, conducting surveys and interviews, cleaning EEG data, and exploring biases in academia. Constantly learning new technologies and driven to create innovative solutions, I am eager to uncover new insights into the vast world of data. Let's chart new territories together!
 
 As a doctoral researcher in musicology at University of Helsinki, I'm finalising my PhD thesis ‘Tuning Into Unknown: A Posthumanist Exploration Of Music’.
 
-I'm currently learning Python, Java, Go, Django, Javascript, TypeScript, React, HTML, and CSS. Also, I've been creating websites with Ghost and WordPress.
+I'm currently focusing on learning data analysis and visualization using Python.

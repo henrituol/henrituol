@@ -16,8 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-I am a data analyst, researcher, and passionate proponent of meaningful measurements and research-driven decision-making. My goal is to unlock new insights by developing tools, indicators, visualizations, and innovative solutions for data analysis. With a background in academic research, particularly in musicology and cognitive science, I bring expertise in conducting research projects and analyzing various kinds of data. My work has involved analyzing audio signals, conducting surveys and interviews, cleaning EEG data, and exploring biases in academia. Constantly learning new technologies and driven to create innovative solutions, I am eager to uncover new insights into the vast world of data. Let's chart new territories together!
-
-As a doctoral researcher in musicology at University of Helsinki, I'm finalising my PhD thesis ‘Tuning Into Unknown: A Posthumanist Exploration Of Music’.
-
-I'm currently focusing on learning data analysis and visualization using Python.
+I am a data analyst, researcher, and passionate proponent of meaningful measurements and research-driven decision-making. My goal is to unlock new insights by developing tools, indicators, visualizations, and innovative solutions for data analysis.
